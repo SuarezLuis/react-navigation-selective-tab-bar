@@ -1,0 +1,32 @@
+{
+  "name": "react-navigation-selective-tab-bar",
+  "version": "1.0.2",
+  "description": "Creates a custom TabBar where you can decide which routes to display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suarezluis/react-navigation-selective-tab-bar.git"
+  },
+  "keywords": [
+    "React",
+    "Navigation",
+    "Hide",
+    "Tab",
+    "Render"
+  ],
+  "author": "Luis F Suarez Harasic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suarezluis/react-navigation-selective-tab-bar/issues"
+  },
+  "homepage": "https://github.com/suarezluis/react-navigation-selective-tab-bar#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.0"
+  },
+  "dependencies": {
+    "react-navigation": "^3.11.1"
+  }
+}
