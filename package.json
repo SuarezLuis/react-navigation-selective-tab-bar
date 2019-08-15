@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-selective-tab-bar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Creates a custom TabBar where you can decide which routes to display",
   "main": "index.js",
   "scripts": {

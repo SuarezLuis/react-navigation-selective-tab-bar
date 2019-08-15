@@ -8,7 +8,7 @@ Creates a custom TabBar where you can decide which routes to display
 
 ## Usage
 
-````const AppNavigator = createBottomTabNavigator(
+```const AppNavigator = createBottomTabNavigator(
   {
     One: {
       screen: ScreenOne
@@ -34,9 +34,18 @@ Creates a custom TabBar where you can decide which routes to display
       );
     }
   }
-);```
+);
+```
 
 ## ScreenShots
 
-![Screen One] (./images/one.png)
-````
+<img src="/images/one.png" width="30%" height="auto"/> <img src="/images/two.png" width="30%" height="auto"/>  
+<img src="/images/three.png" width="30%" height="auto"/> <img src="/images/four.png" width="30%" height="auto"/>
+
+## Example
+
+`git clone https://github.com/suarezluis/react-navigation-selective-tab-bar.git`  
+`cd react-navigation-selective-tab-bar`  
+`cd example`  
+`npm install` or `yarn install`  
+`react-native run-ios` or `react-native run-android`
